@@ -40,7 +40,7 @@ async function* source() {
 }
 
 async function main() {
-  console.log(await last(source(), x => x < 4>));
+  console.log(await last(source(), await x => x < 4));
 }
 
 main();
