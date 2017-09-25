@@ -1,7 +1,7 @@
 {
   "name": "@async-generators/last",
   "description": "get the last (predicated) item from a source iterable",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": {
     "name": "Meirion Hughes",
     "email": "crakinshot@yahoo.com",
