@@ -1,5 +1,5 @@
 # last
-![logo](https://avatars1.githubusercontent.com/u/31987273?v=4&s=100)
+[![logo](https://avatars1.githubusercontent.com/u/31987273?v=4&s=100)][async-url]
 
 get the last (predicated) item from a source iterable
 
@@ -13,8 +13,8 @@ _package requires a system that supports async-iteration, either natively or via
 
 ### Install
 ```
-npm install @async-generators/parallel --save
-yarn add @async-generators/parallel
+npm install @async-generators/last --save
+yarn add @async-generators/last
 ```
 
 This package's `main` entry points to a `commonjs` distribution. 
@@ -78,3 +78,4 @@ ts-node --harmony_async_iteration example.ts
 [travis-image]: https://img.shields.io/travis/async-generators/last/master.svg
 [codecov-url]: https://codecov.io/gh/async-generators/last
 [codecov-image]: https://codecov.io/gh/async-generators/last/branch/master/graph/badge.svg
+[async-url]: https://github.com/async-generators
